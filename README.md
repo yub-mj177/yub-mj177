@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Mangale Ngome.
 
-<!--
-**yub-mj177/yub-mj177** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- I'm currently learning environmental sciences in Kenyatta University.
+- I'm interested in learning Ai, Web development, and machine learning.
+- I'm looking to collaborate on beginner-friendly open source projects on intergrating  Ai on environmental smart systems.
 
-Here are some ideas to get you started:
+## Skills I'm Building
+- Git and GitHub
+- Html
+- Css
+- Javascript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Projects
+- Mastering Git and Github.
+- Building a profesional developer profile
+- preparring to deploy projects using GitHub pages
+
+## How to Reach Me
+- Email: mangalesamuel@gmail.com
+- LinkedIn: https://www.linkedin.com/in/samuel-mangale-78ab70391?utm_source=share_via&utm_content=profile&utm_medium=member_android
