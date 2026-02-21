@@ -1,5 +1,5 @@
-##My Learning Goals 
-###This Semester
+## My Learning Goals 
+### This Semester
 
 Visit my **website** now using the `www.mangalengome.com` link, it's *super* easy to navigate
 
